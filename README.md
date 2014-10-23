@@ -8,12 +8,12 @@
 
 
 ### Make your program sequentially 
-* Problem 6 _PromiseJs_
+* Problem 6 *PromiseJs*
 
 ### Iteration, Induction, Recursion
-* Problem 4 _Fibonacci example_
-* Problem 5 _Graph example_
+* Problem 4 *Fibonacci example*
+* Problem 5 *Graph example*
 
 
 ### Scope
-* Problem 7 _Global, Functional, Lexical_
+* Problem 7 *Global, Functional, Lexical*
