@@ -7,7 +7,7 @@
 * Problem3
 
 
-### Make your program sequentially 
+### Make your program readable
 * Problem6 **PromiseJs**
 
 ### Iteration, Induction, Recursion
