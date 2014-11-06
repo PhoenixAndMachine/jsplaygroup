@@ -46,3 +46,5 @@ console.log("print y4 outside of fn: " + y4);         // error
     4. y3, y4 in fn can not be accessed outside of fn
     5. y3 in fn is different from y3 in global scope 
 */
+
+

@@ -2,7 +2,7 @@
     Point:  Global variable is DANGEROUS!!!!
 */
 
-'use strict';
+//'use strict';
 
 var add1 = function() {
   var c1 = 0;
@@ -35,7 +35,7 @@ var add3 = (function() {
 
 
 console.log(add3());  //1
-//c3 = "what the hell";
+c3 = "what the hell";
 console.log(add3());  //2
 console.log(add3());  //3
 

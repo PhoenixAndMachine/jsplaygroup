@@ -23,7 +23,7 @@ var closure1 = (function() {
   } 
 }());
 
-console.log(closure1());
+console.log(closure1());       // 3
 
 
 var closure2 = (function() {
@@ -33,7 +33,7 @@ var closure2 = (function() {
   } 
 }());
 
-console.log(closure2());
+console.log(closure2());        //  9
 
 var closure3 = (function() {
   var a = 1;
@@ -46,5 +46,5 @@ var closure3 = (function() {
   } 
 }());
 
-console.log(closure3());
+console.log(closure3());        // 17
 
