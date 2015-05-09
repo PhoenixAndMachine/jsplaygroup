@@ -1,0 +1,8 @@
+{
+  "name": "jsplayground",
+  "description": "Tutorial for javascript",
+  "version": "0.0.1",
+  "dependencies": {
+    "q": "1.3.0"
+  }
+}
