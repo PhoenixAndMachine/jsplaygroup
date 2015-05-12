@@ -4,5 +4,8 @@
   "version": "0.0.1",
   "dependencies": {
     "q": "1.3.0"
+  },
+  "devDependencies": {
+    "docco": "0.7.0"
   }
 }
